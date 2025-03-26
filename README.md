@@ -57,7 +57,7 @@ I attached the dataset link:
 
 **📊 Data Analysis**
 
-Here is the Full analysis: [DeepakKumar_Flipkart_CSAT_Project.ipynb](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project/blob/main/DeepakKumar_Flipkart_CSAT_Project.ipynb)
+Here is the Full analysis: [Myntra_Analysis.ipynb](https://github.com/Deepakkumar7774/Myntra-Customer-Analysis-And-Insights/blob/main/Myntra_Analysis.ipynb)
 
 
 
