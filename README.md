@@ -42,6 +42,7 @@ The dataset consists of:
 **Sales Data:** Purchase history, seasonal trends.
 
 I attached the dataset link: 
+[Myntra%20dataset.xlsx](https://github.com/Deepakkumar7774/Myntra-Customer-Analysis-And-Insights/blob/main/Myntra%20dataset.xlsx)
 
 
 
