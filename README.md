@@ -1,13 +1,17 @@
 **🛍️ Myntra Customer Analysis & Insights**
 
 
+
 **📌 Overview**
+
 
 This project dives deep into Myntra’s customer data to uncover key insights using Exploratory Data Analysis (EDA). The goal is to understand customer behavior, product preferences, and trends to help enhance business decisions.
 
 
 
+
 **🔍 Key Objectives**
+
 
 🏷️ Analyze customer demographics to identify target segments.
 
@@ -19,7 +23,9 @@ This project dives deep into Myntra’s customer data to uncover key insights us
 
 
 
+
 **🛠️ Tools & Technologies Used**
+
 
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
@@ -31,7 +37,9 @@ This project dives deep into Myntra’s customer data to uncover key insights us
 
 
 
+
 **📂 Dataset**
+
 
 The dataset consists of:
 
@@ -43,6 +51,14 @@ The dataset consists of:
 
 I attached the dataset link: 
 [Myntra%20dataset.xlsx](https://github.com/Deepakkumar7774/Myntra-Customer-Analysis-And-Insights/blob/main/Myntra%20dataset.xlsx)
+
+
+
+
+**📊 Data Analysis**
+
+Here is the Full analysis: [DeepakKumar_Flipkart_CSAT_Project.ipynb](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project/blob/main/DeepakKumar_Flipkart_CSAT_Project.ipynb)
+
 
 
 
