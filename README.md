@@ -97,7 +97,9 @@ This analysis provides valuable insights into customer behavior, popular product
 **📌 Future Scope**
 
 🚀 Implement machine learning for predictive analysis.
+
 📢 Conduct A/B testing for pricing strategies.
+
 📈 Deep dive into customer segmentation for personalized marketing.
 
 
